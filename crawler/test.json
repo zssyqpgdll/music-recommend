@@ -1,0 +1,259 @@
+{
+  "songs": [
+    {
+      "name": "海阔天空",
+      "id": 347230,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 11127,
+          "name": "Beyond",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [],
+      "pop": 100,
+      "st": 0,
+      "rt": "600902000004240302",
+      "fee": 1,
+      "v": 106,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 34209,
+        "name": "海阔天空",
+        "picUrl": "https://p1.music.126.net/8y8KJC1eCSO_vUKf2MyZwA==/109951165796899183.jpg",
+        "tns": [],
+        "pic_str": "109951165796899183",
+        "pic": 109951165796899180
+      },
+      "dt": 326000,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 13042459,
+        "vd": 0
+      },
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 7825492,
+        "vd": 2310
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 5217009,
+        "vd": 1324
+      },
+      "a": null,
+      "cd": "1",
+      "no": 1,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 1,
+      "s_id": 0,
+      "mark": 8192,
+      "originCoverType": 1,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 106,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "mv": 376199,
+      "rtype": 0,
+      "rurl": null,
+      "mst": 9,
+      "cp": 7002,
+      "publishTime": 746812800000,
+      "tns": [
+        "Boundless Oceans, Vast Skies"
+      ]
+    },
+    {
+      "name": "Crown of the Loser",
+      "id": 347231,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 11171,
+          "name": "Beyond Cure",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [],
+      "pop": 10,
+      "st": 0,
+      "rt": "",
+      "fee": 8,
+      "v": 15,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 34210,
+        "name": "Your Head Smells Good",
+        "picUrl": "https://p1.music.126.net/uOAROZ8Ia72yvcmfMIg_Uw==/125344325570003.jpg",
+        "tns": [
+          "你的头闻起来好香"
+        ],
+        "pic": 125344325570003
+      },
+      "dt": 162120,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6487814,
+        "vd": -28400
+      },
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3892705,
+        "vd": -26199
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2595151,
+        "vd": -25000
+      },
+      "a": null,
+      "cd": "1",
+      "no": 2,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 2,
+      "s_id": 0,
+      "mark": 139264,
+      "originCoverType": 0,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 15,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "mv": 0,
+      "rtype": 0,
+      "rurl": null,
+      "mst": 9,
+      "cp": 1400821,
+      "publishTime": 1277481600000
+    }
+  ],
+  "privileges": [
+    {
+      "id": 347230,
+      "fee": 1,
+      "payed": 0,
+      "st": 0,
+      "pl": 0,
+      "dl": 0,
+      "sp": 0,
+      "cp": 0,
+      "subp": 0,
+      "cs": false,
+      "maxbr": 999000,
+      "fl": 0,
+      "toast": false,
+      "flag": 4,
+      "preSell": false,
+      "playMaxbr": 999000,
+      "downloadMaxbr": 999000,
+      "rscl": null,
+      "freeTrialPrivilege": {
+        "resConsumable": false,
+        "userConsumable": false
+      },
+      "chargeInfoList": [
+        {
+          "rate": 128000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 1
+        },
+        {
+          "rate": 192000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 1
+        },
+        {
+          "rate": 320000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 1
+        },
+        {
+          "rate": 999000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 1
+        }
+      ]
+    },
+    {
+      "id": 347231,
+      "fee": 8,
+      "payed": 0,
+      "st": 0,
+      "pl": 128000,
+      "dl": 0,
+      "sp": 7,
+      "cp": 1,
+      "subp": 1,
+      "cs": false,
+      "maxbr": 999000,
+      "fl": 128000,
+      "toast": false,
+      "flag": 4,
+      "preSell": false,
+      "playMaxbr": 999000,
+      "downloadMaxbr": 999000,
+      "rscl": null,
+      "freeTrialPrivilege": {
+        "resConsumable": false,
+        "userConsumable": false
+      },
+      "chargeInfoList": [
+        {
+          "rate": 128000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 0
+        },
+        {
+          "rate": 192000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 1
+        },
+        {
+          "rate": 320000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 1
+        },
+        {
+          "rate": 999000,
+          "chargeUrl": null,
+          "chargeMessage": null,
+          "chargeType": 1
+        }
+      ]
+    }
+  ],
+  "code": 200
+}
